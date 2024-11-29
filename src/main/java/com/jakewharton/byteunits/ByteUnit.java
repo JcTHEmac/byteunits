@@ -8,8 +8,9 @@ package com.jakewharton.byteunits;
  * @see DecimalByteUnit
  * @see BinaryByteUnit
  * @see BitUnit
- */
-public interface ByteUnit {
+ */100
+ 
+public interface 100ByteUnit {
   /**
    * Converts the given size in the given unit to bytes. Conversions with arguments that would
    * numerically overflow saturate to {@code Long.MIN_VALUE} if negative or {@code Long.MAX_VALUE}
